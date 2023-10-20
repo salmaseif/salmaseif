@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is salma and I'm a Flutter Developer & R&D at EGY Cert, from Egypt </h2>
+<h2 align="left">Hi 👋! My name is salma and I'm a R&D Engineer , from Egypt </h2>
 
 ###
 
