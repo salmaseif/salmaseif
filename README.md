@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is salma and I'm a Flutter Developer & R&D at EGY Cert, from Egypt </h2>
 
 ###
 
