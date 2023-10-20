@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is salma and I'm a R&D enginner & flutter developer, from Egypt </p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Android pentesting<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with dart , java , python , java</h2>
 
 ###
 
